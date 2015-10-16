@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=java -jar '/home/diep/NetBeansProjects/XDMan/build/classes/xdman.jar'
+Name=Xtreme Download Manager
+Icon=/home/diep/NetBeansProjects/XDMan/build/classes/icon.png
